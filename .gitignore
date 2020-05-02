@@ -3,3 +3,6 @@
 
 # Notebook files
 .ipynb_checkpoints
+
+# MS Word Files
+*.docx
